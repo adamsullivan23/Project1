@@ -15,7 +15,6 @@
     <th>Description</th>
     <th>Price</th>
     <th>Amount</th>
-    <th></th>
   </tr>
 </table>
   
